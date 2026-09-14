@@ -1,1 +1,1 @@
-Analysis code for scRNAseq and microfluidics
+Analysis code for scRNAseq processing, PGC cluster identification and LIANA+ ligand-receptor analysis. 
